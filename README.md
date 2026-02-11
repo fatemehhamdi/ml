@@ -6,3 +6,6 @@
 This repository contains the practical assignments for the **Machine Learning** course held in February/March 2025.
 
 The exercises are based on the concepts, methods, and tools that were taught and applied throughout the semester. They are designed to provide hands-on experience with the core topics covered in class.
+
+Slides and references for this course:
+https://drive.google.com/drive/my-drive
